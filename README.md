@@ -4,9 +4,7 @@ This project is a real-time computer vision prototype that detects possible thre
 
 Developed by Noorullah Zamindar as a side project in computer vision.
 
-## Demo
 
-![Demo](https://github.com/abhijeet1592006/threat-detector/blob/main/demo.gif)
 
 ## Features
 
